@@ -7,7 +7,7 @@ title: "Syllabus"
 
 <div id="subtitle">Fundamentals of Computer Science II</div>
 
-**Fall 2018**
+**Spring 2019**
 
 Instructor: <a href="http://faculty.ycp.edu/~dhovemey">David Hovemeyer</a>, <dhovemey@ycp.edu>
 
