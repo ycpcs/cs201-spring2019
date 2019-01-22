@@ -11,7 +11,7 @@ title: "Syllabus"
 
 Instructor: <a href="http://faculty.ycp.edu/~dhovemey">David Hovemeyer</a>, <dhovemey@ycp.edu>
 
-Office hours:  TBD
+Office hours:  M 9-11, T 1-2, W 11-12, Th 1-2, or by arrangement
 
 Sections:
 
