@@ -7,7 +7,7 @@ This page links to code presented in class.
 
 Date | File | Description
 ---- | ---- | -----------
-&mdash; | &mdash; | &mdash;
+Jan 31 | [Point.zip](Point.zip) | Example class with JUnit test
 
 <!--
 Aug 31 | [Employee](Employee.zip) | Example Employee class, JUnit test
