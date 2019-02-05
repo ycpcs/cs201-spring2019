@@ -149,7 +149,11 @@ The **BufferedReader** object contains a reference to the underlying **FileReade
 
 Also note that the **BufferedReader**'s **readLine** method returns the special **null** reference after all of the lines of text in the file have been read.
 
-Finally, note that calling the **close** method on the **BufferedReader** causes the underlying
+Finally, note that calling the **close** method on the **BufferedReader** causes the underlying **FileReader** to be closed.  In general, when your program uses an adapter for a closeable resource such as a reader or writer, the program should call **close** on the adapter.
+
+<div class="callout">
+Always close the adapter.
+</div>
 
 Running the program on the same text file as the previous example:
 
