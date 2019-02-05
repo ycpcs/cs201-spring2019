@@ -185,7 +185,7 @@ The assignment will be graded as follows:
 
 # Submitting
 
-When you are done, submit the lab to the Marmoset server using one of the methods below.
+When you are done, submit the assignment to the Marmoset server using one of the methods below.
 
 From Eclipse
 ------------
@@ -206,3 +206,10 @@ Upload the saved zip file to the Marmoset server as **assign01**. The server URL
 > <https://cs.ycp.edu/marmoset/>
 
 Use this method only if there is some reason why you can't use the plugin.
+
+After you submit
+----------------
+
+**Very important**: After you submit the assignment, please log into the Marmoset server (<https://cs.ycp.edu/marmoset>) and check the files you submitted to make sure that they are correct.
+
+*It is your responsibility to make sure that you have submitted your work correctly.*

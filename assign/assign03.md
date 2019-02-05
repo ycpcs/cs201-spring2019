@@ -289,7 +289,7 @@ Also note that points may be deducted for poor coding style.
 Submitting
 ----------
 
-When you are done, submit your project to the Marmoset server using one of the methods below.
+When you are done, submit the assignment to the Marmoset server using one of the methods below.
 
 <div class="callout">
 You need to submit the entire project.  Submitting a single source
@@ -299,7 +299,7 @@ could result in a lower grade on the assignment.
 
 ### From Eclipse
 
-If you have the [Simple Marmoset Uploader Plugin](../resources.html) installed, select the project (**CS201\_Assign03**) in the package explorer and then press the blue up arrow button in the toolbar. Enter your Marmoset username and password when prompted.  Make sure your choose **assign03** as the inbox:
+If you have the [Simple Marmoset Uploader Plugin](../resources.html) installed, select the project (**CS201\_Assign03**) in the package explorer and then click the blue up arrow button in the toolbar. Enter your Marmoset username and password when prompted.  Make sure your choose **assign03** as the inbox:
 
 > ![Choosing assign03 as the inbox](img/assign03/inbox.png)
 
@@ -316,3 +316,9 @@ Upload the saved zip file to the Marmoset server as **assign03**. The server URL
 > <https://cs.ycp.edu/marmoset/>
 
 Use this method only if there is some reason why you can't use the plugin.
+
+### After you submit
+
+**Very important**: After you submit the assignment, please log into the Marmoset server (<https://cs.ycp.edu/marmoset>) and check the files you submitted to make sure that they are correct.
+
+*It is your responsibility to make sure that you have submitted your work correctly.*

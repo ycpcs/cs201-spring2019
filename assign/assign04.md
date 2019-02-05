@@ -141,6 +141,38 @@ A partial GUI implementation is given to you in **KlondikeView**.  If your class
 
 <div class="callout"><b>Important</b>: Make sure all of the unit tests pass before you start working on the GUI.  Also, make sure that your GUI code does not cause any of the unit tests to fail.  (Your GUI code should not require any changes to your problem domain classes.)</div>
 
+Submitting
+----------
+
+When you are done with each milestone, submit the project to the Marmoset server using one of the methods below.
+
+### From Eclipse
+
+If you have the [Simple Marmoset Uploader Plugin](../resources.html) installed, select the project (**CS201\_Assign04**) in the package explorer and then click the blue up arrow button in the toolbar. Enter your Marmoset username and password when prompted.  Make sure your choose **assign04\_ms1** or **assign04\_ms2** as the inbox:
+
+> <img src="img/assign04/upload.png" alt="Choosing the inbox for assignment 4" style="width: 400px;">
+
+This is the recommended way to submit your work.
+
+### From a web browser
+
+Save the project (**CS201\_Assign04**) to a zip file by right-clicking it and choosing
+
+> **Export...&rarr;Archive File**
+
+Upload the saved zip file to the Marmoset server as **assign04\_ms1** or **assign04\_ms2** as appropriate. The server URL is
+
+> <https://cs.ycp.edu/marmoset/>
+
+Use this method only if there is some reason why you can't use the plugin.
+
+### After you submit
+
+**Very important**: After you submit the assignment, please log into the Marmoset server (<https://cs.ycp.edu/marmoset>) and check the files you submitted to make sure that they are correct.
+
+*It is your responsibility to make sure that you have submitted your work correctly.*
+
+<!--
 # Submitting
 
 Use the Marmoset plugin by selecting the appropriate milestone in the dialog box
@@ -156,3 +188,4 @@ Save the project (**CS201\_Assign04**) to a zip file by right-clicking it and ch
 Upload the saved zip file to the Marmoset server as **assign04\_ms1** (Milestone 1) or **assign04\_ms2** (Milestone 2). The server URL is
 
 > [https://cs.ycp.edu/marmoset/](https://cs.ycp.edu/marmoset/)
+-->

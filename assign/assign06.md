@@ -198,8 +198,19 @@ To get the full extra credit, you will also have to implement a full set of JUni
 
 <b>Important</b>: Make sure that you have the original assignment fully working before taking on the extra credit portion.  The extra credit mapping creates a separate color mapping selection when the rendering program first starts.
 
-Submitting
-==========
+# Submitting
+
+When you are done, submit the assignment to the Marmoset server using one of the methods below.
+
+From Eclipse
+------------
+
+If you have the [Simple Marmoset Uploader Plugin](../resources.html) installed, select the project (**CS201\_Assign06**) in the package explorer and then click the blue up arrow button in the toolbar. Enter your Marmoset username and password when prompted.
+
+This is the recommended way to submit your work.
+
+From a web browser
+------------------
 
 Save the project (**CS201\_Assign06**) to a zip file by right-clicking it and choosing
 
@@ -208,3 +219,12 @@ Save the project (**CS201\_Assign06**) to a zip file by right-clicking it and ch
 Upload the saved zip file to the Marmoset server as **assign06**. The server URL is
 
 > <https://cs.ycp.edu/marmoset/>
+
+Use this method only if there is some reason why you can't use the plugin.
+
+After you submit
+----------------
+
+**Very important**: After you submit the assignment, please log into the Marmoset server (<https://cs.ycp.edu/marmoset>) and check the files you submitted to make sure that they are correct.
+
+*It is your responsibility to make sure that you have submitted your work correctly.*
