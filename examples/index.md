@@ -8,6 +8,7 @@ This page links to code presented in class.
 Date | File | Description
 ---- | ---- | -----------
 Jan 31 | [Point.zip](Point.zip) | Example class with JUnit test
+Feb 5 | [FileIO.zip](FileIO.zip) | Examples of text file input/output
 
 <!--
 Aug 31 | [Employee](Employee.zip) | Example Employee class, JUnit test
