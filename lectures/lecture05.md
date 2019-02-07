@@ -37,7 +37,7 @@ Java has a hierarchy of exception classes:
 
 > <img style="width: 36em;" alt="Java exception hierarchy" src="figures/exceptHier.png">
 
-The boxes are the exception classes. The arrows represent *Is-A* relationships. For example, an **ArithmeticException** is a **RuntimeException**. That means that aritmetic exceptions are "kind of" runtime exception.
+The boxes are the exception classes. The arrows represent *Is-A* relationships. For example, an **ArithmeticException** is a **RuntimeException**. That means that aritmetic exceptions are a "kind of" runtime exception.
 
 All exception classes that are subclasses of **Exception** but not subclasses of **RuntimeException** are checked exceptions. All other exception classes are unchecked exceptions.
 
