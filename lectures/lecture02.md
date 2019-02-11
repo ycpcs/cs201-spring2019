@@ -3,6 +3,8 @@ layout: default
 title: "Lecture 2: Objects/References, Constructors"
 ---
 
+Note: The [course notes on objects, arrays, and references](../notes/objectsArraysReferences.html) will be useful.
+
 References
 ==========
 

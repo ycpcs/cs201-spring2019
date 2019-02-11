@@ -26,6 +26,7 @@ Welcome to the website for CS 201, Fundamentals of Computer Science II, at York 
 
 ## News
 
+* **Feb 11** &mdash; The due dates for Assignments 3&ndash;6 have been posted. [Assignment 3](assign/assign03.html) is due Friday, Feb 22nd.
 * **Jan 31** &mdash; [Assignment 2](assign/assign02.html) is due Friday, Feb 8th.
 * **Jan 30** &mdash; The [Tutoring](tutoring.html) page has been updated with information about in-class and evening tutoring.
 * **Jan 24** &mdash; [Assignment 1](assign/assign01.html) is due Friday, Feb 1st.

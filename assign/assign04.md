@@ -3,9 +3,9 @@ layout: default
 title: "Assignment 4: Klondike"
 ---
 
-**Milestone 1** due: TBD
+**Milestone 1** due: Friday, Mar 15th by 11:59 PM
 
-**Milestone 2** due: TBD
+**Milestone 2** due: Friday, Mar 29th by 11:59 PM
 
 # Getting Started
 

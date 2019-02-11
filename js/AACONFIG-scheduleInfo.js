@@ -31,12 +31,12 @@ courseInfo.classPeriods = [
 		lab: new NumberedLab(6, "GUIs")
 	},
 	{
-		topic: new Topic("Lecture 7: Inheritance", "lectures/lecture07.html"),
+		topic: new Topic("Lecture 7: ArrayList, Inheritance", "lectures/lecture07.html"),
 		reading: "4.1&ndash;4.2",
 		lab: new NumberedLab(7, "Inheritance and Polymorphism")
 	},
 	{
-		topic: new Topic("Lecture 8: ArrayList, Inheritance (continued)", "lectures/lecture08.html"),
+		topic: new Topic("Lecture 8: Inheritance (continued)", "lectures/lecture08.html"),
 		reading: "4.3&ndash;4.4",
 		lab: new NumberedLab(8, "Inheriting Fields and Methods")
 	},
