@@ -9,7 +9,7 @@ Date | File | Description
 ---- | ---- | -----------
 Jan 31 | [Point.zip](Point.zip) | Example class with JUnit test
 Feb 5 | [FileIO.zip](FileIO.zip) | Examples of text file input/output
-Feb 12 | [ExampleGUI](ExampleGUI.zip) | Example MVC GUI
+Feb 12 | [ExampleGUI.zip](ExampleGUI.zip) | Example MVC GUI
 
 <!--
 Aug 31 | [Employee](Employee.zip) | Example Employee class, JUnit test
