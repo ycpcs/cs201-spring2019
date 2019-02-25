@@ -114,9 +114,9 @@ int count = countStringsContaining(deck, 'J'); // (!)
 
 If we accidentally pass an **ArrayList** containing **Card** references to **countStringsContaining**, then we'll get a **ClassCastException** when that method tries to covert a **Card** reference into a **String** reference.
 
-The real problem here is that the type **Object** does not document what kind of objects are being stored in a collection. If the programmer makes a mistake, a **ClassCastException** occurs when the program runs.
+The real problem here is that the type **Object** does not specify what kind of objects are being stored in a collection. If the programmer makes a mistake, a **ClassCastException** occurs when the program runs.
 
-In practice, most collections will store a single kind of object. *Type parameters* document what kind of object a collection will store.
+In practice, most collections will store a single kind of object. *Type parameters* specify what kind of object a collection will store.
 
 Generics using type parameters
 ==============================
