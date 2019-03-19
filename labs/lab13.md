@@ -67,7 +67,10 @@ for (int i = 0; i < N; i++) {
 }
 {% endhighlight %}
 
+<!--
 This one is similar to Problem 3: the inner loop is dependent on the outer loop.
+-->
+Although this code is superficially similar to the code in Problem 3, it is significantly more challenging.  (Hint: think about how the number of iterations executed by the inner loop changes as the outer loop executes.)
 
 ## Problem 6
 
