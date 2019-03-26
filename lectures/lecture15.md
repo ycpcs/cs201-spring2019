@@ -56,7 +56,7 @@ For example, we have already seen (in [Lecture 11](lecture11.html) how to write 
 Pre-built generic algorithms
 ----------------------------
 
-The **java.util.Collections** class has implementations of a number of general algorithms.
+The **java.util.Collections** class has implementations of a number of generic algorithms.
 
 Some examples:
 
@@ -78,4 +78,4 @@ Writing methods that implement generic algorithms is fairly easy. There are a fe
 
 **The algorithm should take one or more Collections, Lists, or Sets as parameter(s).** A generic algorithm typically operates on some collection of values, so taking a reference to a collection object is a general way for the implementation of the algorithm to accept its input. Try to choose the most general interface possible: if you can implement the algorithm for any **Collection** (and not just **Lists** or **Sets**), so much the better. Avoid requiring an instance of any concrete collection class (e.g., **ArrayList**) as a parameter.
 
-**Use functors such as Iterators and Comparators**. If you need to traverse the elements of a collection, use an **Iterator**. If you need to compare element values, use a **Comparator**. If it makes sense, allow the algorithm to take a reference to an instance of a functor object, as we did with **bubbleSort** (by allowing it to use a **Comparator** passed as a parameter.) Functors allow maximum flexibility by allowing details of how the algorithm is to be executed to vary according to which functor implementations are used.
+**Use functors such as Iterators and Comparators**. If you need to traverse the elements of a collection, use an **Iterator**. If you need to compare element values, use a **Comparator**. If it makes sense, allow the algorithm to take a reference to an instance of a functor object, as we did with **bubbleSort** (by allowing it to use a **Comparator** passed as a parameter.) Functors allow maximum flexibility by allowing details of how the algorithm is to be executed to vary according to which functor implementation is used.
