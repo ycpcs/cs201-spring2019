@@ -37,10 +37,11 @@ A good analogy is a phone book, which is a map from names (the key type) to phon
 The **Map&lt;K, V&gt;** interface defines the map operations. (**K** is the type parameter specifying the key type, and **V** is the type parameter specifying the value type.) The most important map operations are:
 
 {% highlight java %}
-public boolean put(K key, V val); // store an association with given key,value pair
-public V get(Key key);            // get the value associated with given key
-public boolean removeKey(K key);  // remove key,value pair for given key
-public Set<K> keySet();           // return the set of keys
+public boolean put(K key, V val);       // store an association with given key,value pair
+public V get(Object key);               // get the value associated with given key
+public boolean remove(Object key);      // remove key,value pair for given key
+public boolean containsKey(Object key); // determine whether key exists in Map
+public Set<K> keySet();                 // return the set of keys
 {% endhighlight %}
 
 An implementation of the map interface is expected to define efficient (O(1) or O(log N)) implementations of these methods.
