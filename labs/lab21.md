@@ -15,7 +15,7 @@ Here are perfect binary trees of height 0, 1, and 2, respectively. The root node
 Proof by Induction
 ==================
 
-In a *proof by induction*, you prove that some proposition is true for all integers [<i>b</i>..<i>n</i>], where *b* is a small value, usually 0 or 1. It has two parts:
+In a *proof by induction*, you prove that some proposition is true for all integers *n* such that *n* ≥ *b*, where *b* is a small value (often 0 or 1). It has two parts:
 
 1.  **Basis step**: Prove that the proposition is true for the integer *b*.
 2.  **Induction step**: Prove that if the proposition is true for *n*, it also holds for *n* + 1.
