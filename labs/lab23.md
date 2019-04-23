@@ -74,7 +74,7 @@ AUTHOR_ID AUTHOR_LASTNAME AUTHOR_FIRSTNAME
 OK (5 rows(s))
 </pre>
 
-[Here is a great tutorial side for learning SQL](http://www.w3schools.com/sql/default.asp)
+[Here is a great tutorial site for learning SQL](http://www.w3schools.com/sql/default.asp)
 
 # What to submit
 
